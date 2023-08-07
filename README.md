@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DevKonis)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DevKonis)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevKonis)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevKonis)](https://github.com/anuraghazra/github-readme-stats)
 
 ![DevKonis's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevKonis&show_icons=true&theme=dark)
 <!--
